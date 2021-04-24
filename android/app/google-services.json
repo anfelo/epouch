@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717491276098",
+    "firebase_url": "https://poche-de3e8.firebaseio.com",
+    "project_id": "poche-de3e8",
+    "storage_bucket": "poche-de3e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717491276098:android:608d6ca57894a39bd660db",
+        "android_client_info": {
+          "package_name": "co.renowatt.epouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717491276098-2euefamlc4kj5d72dmnua5urjq8ib0e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.renowatt.epouch",
+            "certificate_hash": "b8a67198da001f8b280a76cb9e32db0a80460bc6"
+          }
+        },
+        {
+          "client_id": "717491276098-n0l56b4kme05hnee05l0j04l0rscsl61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW03m0JqfeEwAXKOeyLow7CukWFPNmrJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717491276098-n0l56b4kme05hnee05l0j04l0rscsl61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
